@@ -37,6 +37,11 @@ h4 {
   text-align: center;
   font-weight: 300;
 }
+
+p {
+  color: #fff;
+  font-family: 'Space Mono', monospace;
+}
   
 img {
   max-width: 40%;
